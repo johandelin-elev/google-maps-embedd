@@ -13,3 +13,6 @@ body {
     background-color: hsl(0, 0%, 10%);
 }
 
+iframe {
+    border-radius: 8px;
+}
