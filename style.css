@@ -14,5 +14,6 @@ body {
 }
 
 iframe {
+    display: flex;
     border-radius: 8px;
 }
